@@ -18,3 +18,5 @@ create table member2 (
     regdate datetime
 );
 -- 테이블 삭제 --
+drop table member;
+drop table member2;
