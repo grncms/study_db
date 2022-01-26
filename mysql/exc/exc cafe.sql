@@ -67,4 +67,22 @@ drop table cafe;
 
 -- pk = primary key
 
+-- b: 바이너리 파일 저장
+-- un: unsigned(?) : 양수만
+-- -128 0 127 : 0~255
+-- -214783648 9
+-- 
 
+-- 데이터 수정
+update
+where
+
+
+DDL : db, table : 관리자, 선임
+DML : data ; 후임들
+-- 테이블 수정
+-- 컬럼 추가
+alter table test add tel varchar(50);
+-- desc table
+
+alter table test add tel varchar(50);
