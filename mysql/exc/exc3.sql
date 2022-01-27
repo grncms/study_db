@@ -7,7 +7,7 @@ CREATE TABLE `book4` (
   PRIMARY KEY (`no`)
 );
 
-CREATE TABLE `review` (
+CREATE TABLE `review4` (
   `no` INT UNSIGNED NOT NULL AUTO_INCREMENT,
   `name` VARCHAR(45) NOT NULL,
   `book4_no` INT UNSIGNED NOT NULL,

@@ -1,4 +1,4 @@
-use world;
+htmlbookuse world;
 
 show tables;
 
@@ -11,3 +11,5 @@ create table book(
 );
 
 drop table book;
+
+
