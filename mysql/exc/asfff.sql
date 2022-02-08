@@ -5,6 +5,7 @@ CREATE TABLE `test2` (
   `name` VARCHAR(45) NULL,
   PRIMARY KEY (`seq`, `seq3`, `seq2`)
   );
+  drop table test2
   
   insert into test2 (
 	seq2

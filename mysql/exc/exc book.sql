@@ -1,4 +1,4 @@
-htmlbookuse world;
+use world;
 
 show tables;
 

@@ -19,6 +19,7 @@ CREATE TABLE IF NOT EXISTS `test` (
   
   select * from test;
   
+  drop table mobilecarrier;
   
   
 -- 데이터 수정
@@ -29,7 +30,7 @@ where 1=1
 	and seq = 1;
     
 -- 데이터 삭제
-delete from test
+delete from tespwqpwQt
 where 1=1
 	and seq = 3;
 
